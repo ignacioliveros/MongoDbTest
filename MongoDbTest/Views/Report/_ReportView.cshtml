@@ -1,0 +1,46 @@
+﻿@model MongoDbTest.Models.ReportViewModel
+
+<p>
+    <button type="button" class="btn btn-info btn-sm " id="reportViewCreate" data-toggle="modal" data-target="#createReportModal">Crear Reporte</button>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Report.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Report.Order)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Report.BoxSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Report.ChartType)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Reports)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BoxSize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChartType)
+            </td>
+            <td>              
+                <button type="button" class="btn-sm btn-default bt reportUpdate" id="reportViewEdit" data-report-reportid="@item.Id" data-toggle="modal" data-target="#createReportModal"><i class="glyphicon glyphicon-edit"></i></button>
+                <button type="button" class="btn-sm btn-danger bt reportDelete" data-report-reportid="@item.Id" ><i class="glyphicon glyphicon-trash"></i></button>               
+            </td>
+        </tr>
+    }
+
+</table>
+

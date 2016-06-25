@@ -1,0 +1,14 @@
+﻿@model MongoDbTest.Models.ReportViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Reportes</h2>
+
+<div class="repotGrid">
+    @Html.Partial("_ReportView", Model)
+</div>
+<div class="indexReportModal">
+    @Html.Partial("_CreateReportModal", Model.Report)
+</div>

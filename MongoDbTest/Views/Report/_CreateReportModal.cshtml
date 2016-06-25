@@ -1,0 +1,78 @@
+﻿@model Domain.Entities.Report
+
+@{
+    ViewBag.Title = "_CreateReportModal";
+}
+<div id="createReportModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            
+                <div class="modal-body">
+                    <form class="form-horizontal" role="form">
+                        
+                            <div class="col-md-10 col-md-offset-3">
+                                <div id="modalTitle">
+                                    <h2></h2>
+                                </div>  
+                            </div>
+                        
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <div id="createErrorDiv">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(model => model.Name, new { @class = "form-control", id = "reportNameCreate" })
+                                @Html.HiddenFor(model => model.Id, new { id = "reportIdCreate" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Order, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(model => model.Order, new { @class = "form-control", @id = "reportOrderCreate" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.BoxSize, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <select class="form-control" id="reportBoxSizeCreate">
+                                    @foreach (var item in Enum.GetValues(Model.BoxSize.GetType()))
+                                    {
+                                        <option>@item</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.ChartType, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <select class="form-control" id="reportChartTypeCreate">
+                                    @foreach (var item in Enum.GetValues(Model.ChartType.GetType()))
+                                    {
+                                        <option>@item</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <button type="button" id="reportSave" class="btn btn-default">Guardar</button>
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </form>
+
+
+
+                </div>
+
+
+
+            </div>
+    </div>
+</div>

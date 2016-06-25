@@ -1,0 +1,94 @@
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\csc.exe
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\vbc.exe
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\VBCSCompiler.exe
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDbTest.dll.config
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDbTest.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDbTest.pdb
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Antlr3.Runtime.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Domain.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Newtonsoft.Json.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Helpers.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Mvc.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Optimization.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Razor.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Razor.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\WebGrease.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDB.Bson.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.Core.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Domain.pdb
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Helpers.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Mvc.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Optimization.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.Razor.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Razor.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Antlr3.Runtime.pdb
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\Newtonsoft.Json.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\bin\MongoDB.Bson.xml
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.csprojResolveAssemblyReference.cache
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.dll
+c:\users\ignacio\documents\visual studio 2015\Projects\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.pdb
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\csc.exe
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\vbc.exe
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDbTest.dll.config
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDbTest.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDbTest.pdb
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Antlr3.Runtime.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Domain.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Newtonsoft.Json.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Helpers.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Mvc.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Optimization.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Razor.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\WebGrease.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDB.Bson.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.Core.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Domain.pdb
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Helpers.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Mvc.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Optimization.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.Razor.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Antlr3.Runtime.pdb
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\Newtonsoft.Json.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDB.Driver.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\bin\MongoDB.Bson.xml
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.dll
+C:\Users\Ignacio\Documents\GitHub\MongoDbTest\MongoDbTest\obj\Debug\MongoDbTest.pdb
